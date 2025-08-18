@@ -94,5 +94,14 @@ options:
 The paper of Categorical SQ-VAE for individual activity recognition was accepted by International Journal of Activity and Behavior Computing.
 Coming soon!
 ```
-
+@article{Koji Yokoyama202549,
+  title={Semi-Supervised Role Classification from Operating Room Surveillance Videos for Intraoperative Situation Analysis},
+  author={Koji Yokoyama and Goshiro Yamamoto and Chang Liu and Sho Mitarai and Kazumasa Kishimoto and Yukiko Mori and Tomohiro Kuroda},
+  journal={International Journal of Activity and Behavior Computing},
+  volume={2025},
+  number={1},
+  pages={1-27},
+  year={2025},
+  doi={10.60401/ijabc.49}
+}
 ```
